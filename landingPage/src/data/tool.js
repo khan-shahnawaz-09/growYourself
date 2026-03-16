@@ -1,0 +1,17 @@
+export const tools = [
+  "🤖 ChatGPT",
+  "🎨 Midjourney",
+  "📝 Notion AI",
+  "🔍 Perplexity AI",
+  "🎬 RunwayML",
+  "⚡ Zapier AI",
+  "💻 GitHub Copilot",
+  "🎵 Suno AI",
+  "📊 Julius AI",
+  "🖼️ DALL·E 3",
+  "📣 ElevenLabs",
+  "🌐 Claude AI",
+  "📌 Gamma AI",
+  "🔧 Make.com",
+  "✍️ Jasper AI",
+];
